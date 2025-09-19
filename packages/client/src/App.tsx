@@ -14,6 +14,6 @@ function App() {
          <p className="font-bold text-3xl">{message}</p>
          <Button>Click me!</Button>
       </div>
-   )
+   );
 }
 export default App;
